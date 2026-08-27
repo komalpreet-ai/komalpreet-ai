@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Komal 👋
 
-<!--
-**komalpreet-ai/komalpreet-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc AI & Data Science Student
 
-Here are some ideas to get you started:
+💻 Interested in Python, Data Science & Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+## 📂 Projects
+
+- Student Grade Calculator
+- Number Guessing Game
+- Quiz Game
+- To-Do List
+- Student Record Management
+- Personal Portfolio
+
+## 🎯 Currently Learning
+
+- Python
+- Data Science
+- Web Development
+
+Thanks for visiting my profile! 😊
