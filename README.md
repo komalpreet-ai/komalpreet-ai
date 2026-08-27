@@ -9,8 +9,6 @@
 - Python
 - SQL
 - HTML
-- CSS
-- JavaScript
 
 ## 📂 Projects
 
@@ -26,5 +24,11 @@
 - Python
 - Data Science
 - Web Development
+
+## 🏆 Certification
+
+- **Learning Web Development from Scratch: The Ultimate Bootcamp**
+- Eduonix Learning Solutions — January 2026
+- [View Certificate](https://www.eduonix.com/certificate/32b32f985b)
 
 Thanks for visiting my profile! 😊
